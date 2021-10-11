@@ -1,4 +1,3 @@
-"""example of simple chaos machine"""
 """exemplo de máquina de caos simple"""
 
 # Chaos Machine (K, t, m)
