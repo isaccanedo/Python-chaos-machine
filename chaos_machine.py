@@ -5,7 +5,6 @@ K = [0.33, 0.44, 0.55, 0.44, 0.33]
 t = 3
 m = 5
 
-# Buffer Space (with Parameters Space)
 # Espaço de buffer (com espaço de parâmetros)
 buffer_space: list[float] = []
 params_space: list[float] = []
