@@ -9,7 +9,6 @@ m = 5
 buffer_space: list[float] = []
 params_space: list[float] = []
 
-# Machine Time
 # Tempo Máquina
 machine_time = 0
 
